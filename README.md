@@ -1,0 +1,2 @@
+# SurviveGTSIManual
+受到上海交大生存指南启发做的GTSI生存指南
