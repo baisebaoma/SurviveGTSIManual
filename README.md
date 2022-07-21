@@ -4,7 +4,7 @@
 
 您点开这个仓库的原因是在考虑这所学校。我也曾经考虑过。
 
-本仓库收集互联网上有用的信息。下面每个小标题下面的资源是本人按照重要顺序排列的，但并不代表排名末尾的就不重要，真正不重要的资源是不会放在这里的。推荐您依次阅读。
+秉承互联网开源互帮互助的思想，本仓库收集互联网上零碎的有用的信息。下面每个小标题下面的资源是本人按照重要顺序排列的，但并不代表排名末尾的就不重要，真正不重要的资源是不会放在这里的。推荐您依次阅读。
 
 根据[这篇文章](#omscs)，如果您想报考计算机，请记住您的身份和OMSCS除了教育部认证以外几乎没有区别。本仓库有大量OMSCS相关资源，您一样需要参考。
 
@@ -51,7 +51,7 @@
 
 ## 📃精选文档
 
-| [GTSI_2022招生简章.pdf](https://t.me/WangPanBOT?start=file1752d1c78b035d3f) |
+| [GTSI_2022招生简章.pdf（Telegram 网盘机器人）](https://t.me/WangPanBOT?start=file1752d1c78b035d3f) |
 | ------------------------------------------------------------ |
 | [OMS Unofficial Guide.xlsx](https://docs.google.com/spreadsheets/d/1elFP6k8zEOubNJ7lIFNmgTP5J-vKoS4R/htmlview) |
 | [Spring 2022_GT-Shenzhen MSCS Handbook](https://docs.qq.com/pdf/DTmJ2aUtqa1ViTVF3?&u=03e978e634e649b7af8e8c2295d5f3a0) |
