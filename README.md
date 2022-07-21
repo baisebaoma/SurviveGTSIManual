@@ -17,10 +17,10 @@
 
 ## 🎬精选视频
 1. [GTSI Campus Tour](https://www.bilibili.com/video/BV1CS4y1K7MD) - 官方 - Bilibili - 校内环境
-2. [GTSI Residence Tour](https://youtu.be/JtS_J6wHJ4o) - 官方 - 英文 - YouTube - 住宿条件
-3. [OMSCS Spring 2022非官方选课指南](https://youtu.be/AjR0jqpoK-M) - 非官方 - 中文 - YouTube
-4. [5 Things You Should Know Before Applying to the OMSCS](https://youtu.be/jPgiDo5ExRQ) - 非官方 - YouTube
-5. ~~（已过时，学校已搬迁）[GTSI VLOG](https://www.bilibili.com/video/BV1BK411T7VS) - 非官方 - Bilibili~~
+2. [GTSI Residence Tour](https://youtu.be/JtS_J6wHJ4o) - 官方 - YouTube - 住宿条件
+3. [OMSCS Spring 2022非官方选课指南](https://youtu.be/AjR0jqpoK-M) - 非官方 - YouTube
+4. [Georgia Tech OMS Student Orientation](https://youtube.com/playlist?list=PLl2dezBNo_Bme8RliCeBnjeK5_KnElfNU) - 官方 - YouTube
+5. [5 Things You Should Know Before Applying to the OMSCS](https://youtu.be/jPgiDo5ExRQ) - 非官方 - YouTube
 
 ## 📃精选文档
 1. [OMS Unofficial Guide.xlsx](https://docs.google.com/spreadsheets/d/1elFP6k8zEOubNJ7lIFNmgTP5J-vKoS4R/htmlview) - 非官方 - Google
