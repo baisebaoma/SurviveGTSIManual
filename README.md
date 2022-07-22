@@ -18,7 +18,7 @@
 | [英文官网](https://shenzhen.gatech.edu)                      | ✅    | 可靠的信息来源                                   |          |
 | [Current Students](https://www.shenzhen.gatech.edu/current-students/) | ✅    | 入学之后需要做什么事情                           |          |
 | [Home - OMSCS](https://omscs.gatech.edu)                     | ✅    | OMSCS项目介绍                                    |          |
-| [OMSCS Specializations](https://omscs.gatech.edu/program-info/specializations) | ✅    | 官方                                             |          |
+| [OMSCS Specializations](https://omscs.gatech.edu/program-info/specializations) | ✅    | OMSCS课程要求                                    |          |
 | [OMSCentral](https://www.omscentral.com/)                    | ❌    | 课程、学生的课程评价                             |          |
 | [OMSHub](https://omshub.org/)                                | ❌    | 课程、学生的课程评价                             |          |
 | [中文官网](http://www.gtsi.edu.cn)                           | ✅    | **信息仅对ECE适用，并且亟待更新**                |          |
@@ -27,27 +27,26 @@
 
 ## 📖精选文章
 
-以下所有都来自[这篇知乎问题](https://www.zhihu.com/question/39689377)。
-
 | 文章                                                         | 态度 | 摘要                                                         | 备用链接                                                     |
 | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [在读学生评价](https://www.zhihu.com/question/39689377/answer/2089696520) | 🀄️    | 师资、教育资源、申请流程                                     | [Telegraph备份](https://telegra.ph/怎么样评价天津大学佐治亚理工合办的深圳研究院-07-21)<br />[2022.7.21备份](https://web.archive.org/web/20220721072757/https://www.zhihu.com/question/39689377/answer/2089696520) |
-| <span id="omscs">[未就读学生评价](https://www.zhihu.com/question/39689377/answer/2486316349)</span> | 🀄️    | CS几乎等于能认证的OMSCS                                      | [2022.7.18备份](https://web.archive.org/web/20220718111153/https://www.zhihu.com/question/39689377/answer/2486316349) |
-| [在读学生评价](https://www.zhihu.com/question/39689377/answer/2130205892) | 👎    | 学习、生活的劣势                                             |                                                              |
+| [在读学生评价](https://www.zhihu.com/question/39689377/answer/2089696520) | 🀄️    | 师资、教育资源、申请流程                                     | [Telegraph备份](https://telegra.ph/怎么样评价天津大学佐治亚理工合办的深圳研究院-07-21)<br />[Web Archive备份](https://web.archive.org/web/20220721072757/https://www.zhihu.com/question/39689377/answer/2089696520) |
+| <span id="omscs">[未就读学生评价](https://www.zhihu.com/question/39689377/answer/2486316349)</span> | 🀄️    | CS几乎等于能认证的OMSCS。给出了申请建议。                    | [Web Archive备份](https://web.archive.org/web/20220718111153/https://www.zhihu.com/question/39689377/answer/2486316349) |
+| [在读学生评价](https://www.zhihu.com/question/39689377/answer/2130205892) | 👎    | 学习、生活的劣势                                             | [Web Archive备份](https://web.archive.org/web/20220722051423/https://www.zhihu.com/question/39689377/answer/2130205892) |
 | [在读学生评价](https://www.zhihu.com/question/39689377/answer/2416400617) | 👎    | 从OPT和交换的角度分析，指出CS几乎不可能交换，批评学校模棱两可的政策，语气较强硬 |                                                              |
 | [非学生评价](https://www.zhihu.com/question/39689377/answer/2430286020) | 👍    | 从大环境分析，认为该校前途无量                               |                                                              |
+| [在读学生评价](https://www.1point3acres.com/bbs/thread-655947-1-1.html) | 👍    | 只看四楼五楼就行了，**ECE教育质量不错、性价比高**            |                                                              |
 | [在读学生评价](https://www.zhihu.com/question/39689377/answer/2124180545) | 🀄️    | GT单硕士和天大GT双硕士、毕业证                               |                                                              |
 
 ## 🎬精选视频
 
-| 视频                                                         | 官方 | 摘要                    | 备用链接                                                     |
-| ------------------------------------------------------------ | ---- | ----------------------- | ------------------------------------------------------------ |
-| [GTSI Campus Tour](https://www.bilibili.com/video/BV1CS4y1K7MD) | ✅    | 校内环境                |                                                              |
-| [GTSI Residence Tour](https://youtu.be/JtS_J6wHJ4o)          | ✅    | 住宿条件                |                                                              |
-| [Georgia Tech OMS Student Orientation](https://youtube.com/playlist?list=PLl2dezBNo_Bme8RliCeBnjeK5_KnElfNU) | ✅    | 学校对你的期待和要求    |                                                              |
-| [OMSCS Spring 2022非官方选课指南](https://youtu.be/AjR0jqpoK-M) | ❌    | 选课                    |                                                              |
-| [5 Things You Should Know Before Applying to the OMSCS](https://youtu.be/jPgiDo5ExRQ) | ❌    | 申请建议                |                                                              |
-| ~~[GTSI 学校介绍](http://www.gtsi.edu.cn/media/videos/GT-Shenzhen.mp4?modestbranding=1&rel=0&controls=0&showinfo=0&html5=1&autoplay=1)~~ | ✅    | 很久以前拍摄的了，仅ECE | [Telegram 网盘机器人备份](https://t.me/WangPanBOT?start=file9fd0605b953fdc42) |
+| 视频                                                         | 官方 | 摘要                            | 备用链接                                                     |
+| ------------------------------------------------------------ | ---- | ------------------------------- | ------------------------------------------------------------ |
+| [GTSI Campus Tour](https://www.bilibili.com/video/BV1CS4y1K7MD) | ✅    | 校内环境                        |                                                              |
+| [GTSI Residence Tour](https://youtu.be/JtS_J6wHJ4o)          | ✅    | 住宿条件                        |                                                              |
+| [Georgia Tech OMS Student Orientation](https://youtube.com/playlist?list=PLl2dezBNo_Bme8RliCeBnjeK5_KnElfNU) | ✅    | 学校对你的期待和要求            |                                                              |
+| [OMSCS Spring 2022非官方选课指南](https://youtu.be/AjR0jqpoK-M) | ❌    | 选课                            |                                                              |
+| [5 Things You Should Know Before Applying to the OMSCS](https://youtu.be/jPgiDo5ExRQ) | ❌    | 申请建议                        |                                                              |
+| ~~[GTSI 学校介绍](http://www.gtsi.edu.cn/media/videos/GT-Shenzhen.mp4?modestbranding=1&rel=0&controls=0&showinfo=0&html5=1&autoplay=1)~~<br />~~[另一个版本](https://www.youtube.com/watch?v=Fd_GyU4ylAE)~~ | ✅    | 很久以前拍摄的了，仅ECE，老校区 | [Telegram 网盘机器人备份](https://t.me/WangPanBOT?start=file9fd0605b953fdc42)<br />[YouTube](https://www.youtube.com/watch?v=iOc3Rkg9v24) |
 
 ## 📃精选文档
 
