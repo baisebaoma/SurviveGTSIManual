@@ -38,6 +38,7 @@
 | 👎    | [在读学生评价](https://www.zhihu.com/question/39689377/answer/2416400617) | 从OPT和交换的角度分析，指出CS几乎不可能交换，批评学校模棱两可的政策，语气较强硬 |                                                              |
 | 👍    | [在读学生评价](https://www.1point3acres.com/bbs/thread-655947-1-1.html) | 只看四楼五楼就行了，**ECE教育质量不错、性价比高**            |                                                              |
 | 🀄️    | [在读学生评价](https://www.zhihu.com/question/39689377/answer/2124180545) | GT单硕士和天大GT双硕士、毕业证                               |                                                              |
+| 👍    | [如何评价 Georgia Tech 的 OMSCS?](https://www.zhihu.com/question/24570155/answer/37717958) | 一篇OMSCS的中文文章，帮助您了解OMSCS是什么。                 |                                                              |
 
 ## 🎬精选视频
 
