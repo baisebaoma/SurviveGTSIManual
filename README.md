@@ -14,16 +14,16 @@
 
 ## 🌍精选网站
 
-| 官方 | 网站                                                         | 摘要                                             | 备用链接 |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------ | -------- |
-| ✅    | [教育部官网](https://www.crs.jsj.edu.cn/aproval/detail/2766) | 学校在教育部注册的信息，是正规学校，受教育部认可 |          |
-| ✅    | [英文官网](https://shenzhen.gatech.edu)                      | 可靠的信息来源                                   |          |
-| ✅    | [Current Students](https://www.shenzhen.gatech.edu/current-students/) | 入学之后需要做什么事情                           |          |
-| ✅    | [Home - OMSCS](https://omscs.gatech.edu)                     | OMSCS项目介绍                                    |          |
-| ✅    | [OMSCS Specializations](https://omscs.gatech.edu/program-info/specializations) | OMSCS课程要求                                    |          |
-| ❌    | [OMSCentral](https://www.omscentral.com/)                    | 课程、学生的课程评价                             |          |
-| ❌    | [OMSHub](https://omshub.org/)                                | 课程、学生的课程评价                             |          |
-| ✅    | [中文官网](http://www.gtsi.edu.cn)                           | **信息仅对ECE适用，并且亟待更新**                |          |
+| 官方 | 网站                                                         | 摘要                                             | 备用链接                                                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ |
+| ✅    | [教育部官网](https://www.crs.jsj.edu.cn/aproval/detail/2766) | 学校在教育部注册的信息，是正规学校，受教育部认可 | [Web Archive](https://web.archive.org/web/20220528083820/https://www.crs.jsj.edu.cn/aproval/detail/2766) |
+| ✅    | [英文官网](https://shenzhen.gatech.edu)                      | 可靠的信息来源                                   | [Web Archive](https://web.archive.org/web/20220703081443/https://www.shenzhen.gatech.edu/) |
+| ✅    | [Current Students](https://www.shenzhen.gatech.edu/current-students/) | 入学之后需要做什么事情                           |                                                              |
+| ✅    | [Home - OMSCS](https://omscs.gatech.edu)                     | OMSCS项目介绍                                    |                                                              |
+| ✅    | [OMSCS Specializations](https://omscs.gatech.edu/program-info/specializations) | OMSCS课程要求                                    |                                                              |
+| ❌    | [OMSCentral](https://www.omscentral.com/)                    | 课程、学生的课程评价                             |                                                              |
+| ❌    | [OMSHub](https://omshub.org/)                                | 课程、学生的课程评价                             |                                                              |
+| ✅    | [中文官网](http://www.gtsi.edu.cn)                           | **信息仅对ECE适用，并且亟待更新**                |                                                              |
 
 
 
@@ -50,6 +50,7 @@
 | ✅    | [Georgia Tech on the Shape of OMS](https://youtu.be/zihmiLx3Xlk) | 线上学习和线下获得的学位完全相同，教学质量保证        |                                                              |
 | ❌    | [How I got a Master's in Computer Science online from Georgia Tech](https://youtu.be/Xf1yOp8tILA) | **很中肯真诚的视频，强烈推荐**                        |                                                              |
 | ❌    | [Georgia Tech OMSCS (s0e1) - before starting the program](https://www.youtube.com/watch?v=T3jyD3oqmW4) | 一位学生对OMSCS的介绍。<br />他的其他视频也建议观看。 |                                                              |
+| ❌    | [OMSCS: The best advice to get through the program](https://youtu.be/FzAdoqkUWXE) | Do homework ASAP                                      |                                                              |
 | ❌    | [Resources every OMSCS student should use](https://www.youtube.com/watch?v=9zRWHD3aLek) | 你将用到的资源。赶时间的话可以直接看他的视频简介      |                                                              |
 | ❌    | [OMSCS Spring 2022非官方选课指南](https://youtu.be/AjR0jqpoK-M) | 选课                                                  |                                                              |
 | ✅    | [OMSCS Digital Career Seminar Series - How OMSCS Can Help You Pursue Your Ph.D. or Research Career](https://youtu.be/qQkq4XufQ5U) | OMSCS职业协助（GTSI也会有，以其他的形式）             |                                                              |
