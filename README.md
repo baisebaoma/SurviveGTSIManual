@@ -47,6 +47,7 @@
 | ✅    | [GTSI Campus Tour](https://www.bilibili.com/video/BV1CS4y1K7MD) | 校内环境                                              |                                                              |
 | ✅    | [GTSI Residence Tour](https://youtu.be/JtS_J6wHJ4o)          | 住宿条件                                              |                                                              |
 | ✅    | [Georgia Tech OMS Student Orientation](https://youtube.com/playlist?list=PLl2dezBNo_Bme8RliCeBnjeK5_KnElfNU) | 学校对你的期待和要求                                  |                                                              |
+| ✅    | [Georgia Tech on the Shape of OMS](https://youtu.be/zihmiLx3Xlk) | 线上学习和线下获得的学位完全相同，教学质量保证        |                                                              |
 | ❌    | [How I got a Master's in Computer Science online from Georgia Tech](https://youtu.be/Xf1yOp8tILA) | **很中肯真诚的视频，强烈推荐**                        |                                                              |
 | ❌    | [Georgia Tech OMSCS (s0e1) - before starting the program](https://www.youtube.com/watch?v=T3jyD3oqmW4) | 一位学生对OMSCS的介绍。<br />他的其他视频也建议观看。 |                                                              |
 | ❌    | [Resources every OMSCS student should use](https://www.youtube.com/watch?v=9zRWHD3aLek) | 你将用到的资源。赶时间的话可以直接看他的视频简介      |                                                              |
@@ -55,6 +56,7 @@
 | ❌    | [5 Things You Should Know Before Applying to the OMSCS](https://youtu.be/jPgiDo5ExRQ) | 申请建议                                              |                                                              |
 | ✅    | [GTSI 学校介绍](http://www.gtsi.edu.cn/media/videos/GT-Shenzhen.mp4?modestbranding=1&rel=0&controls=0&showinfo=0&html5=1&autoplay=1)<br />[另一个版本](https://www.youtube.com/watch?v=Fd_GyU4ylAE) | 很久以前拍摄的了，仅ECE，老校区                       | [Telegram网盘机器人](https://t.me/WangPanBOT?start=file9fd0605b953fdc42)<br />[YouTube](https://www.youtube.com/watch?v=iOc3Rkg9v24) |
 | ✅    | [Georgia Tech - Skype Interview with Online Computer Science Graduate Student](https://www.youtube.com/watch?v=ax9ybaxbmv8) | 被采访者是全职工作者、兼职选课。有一些对课程的评价。  |                                                              |
+| ❌    | [4 Things I Didn't Like About my Online Computer Science Program](https://www.youtube.com/watch?v=PpEXo6EkWsc) | 缺点                                                  |                                                              |
 
 ## 📃精选文档
 
