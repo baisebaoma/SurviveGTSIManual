@@ -18,12 +18,16 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ |
 | ✅    | [教育部官网](https://www.crs.jsj.edu.cn/aproval/detail/2766) | 学校在教育部注册的信息，是正规学校，受教育部认可 | [Web Archive](https://web.archive.org/web/20220528083820/https://www.crs.jsj.edu.cn/aproval/detail/2766) |
 | ✅    | [英文官网](https://shenzhen.gatech.edu)                      | 可靠的信息来源                                   | [Web Archive](https://web.archive.org/web/20220703081443/https://www.shenzhen.gatech.edu/) |
-| ✅    | [Current Students](https://www.shenzhen.gatech.edu/current-students/) | 入学之后需要做什么事情                           |                                                              |
+| ✅    | [Current Students](https://www.shenzhen.gatech.edu/current-students/) | 一份实用目录                                     | [Web Archive](https://web.archive.org/web/20220604082716/https://www.shenzhen.gatech.edu/current-students/) |
+| ✅    | [GT-Shenzhen Lodging Options](https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) | 寝室（有巢公寓）照片                             | [Web Archive](https://web.archive.org/web/20220604082720/https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) |
+| ❌    | [Succeed in OMSCS](http://omscs.wikidot.com/)                | 一份非官方指南                                   |                                                              |
+| ✅    | [Preparing for Spring 2016!](https://www.reddit.com/r/OMSCS/comments/3rghng/preparing_for_spring_2016/) | 对OMSCS学生的建议                                |                                                              |
 | ✅    | [Home - OMSCS](https://omscs.gatech.edu)                     | OMSCS项目介绍                                    |                                                              |
 | ✅    | [OMSCS Specializations](https://omscs.gatech.edu/program-info/specializations) | OMSCS课程要求                                    |                                                              |
 | ❌    | [OMSCentral](https://www.omscentral.com/)                    | 课程、学生的课程评价                             |                                                              |
 | ❌    | [OMSHub](https://omshub.org/)                                | 课程、学生的课程评价                             |                                                              |
-| ✅    | [中文官网](http://www.gtsi.edu.cn)                           | **信息仅对ECE适用，并且亟待更新**                |                                                              |
+| ✅    | [中文官网](http://www.gtsi.edu.cn)                           | **信息几乎仅对ECE适用，并且亟待更新**            |                                                              |
+| ✅    | ~~[GTSI Transitional Campus Photos](https://www.shenzhen.gatech.edu/gt-shenzhen-campus-photos/)~~ | ~~学校（过渡校区）照片（已过时）~~               | [Web Archive](https://web.archive.org/web/20220604082551/https://shenzhen.gatech.edu/gt-shenzhen-campus-photos/) |
 
 
 
@@ -67,6 +71,6 @@
 | [Spring 2022_GT-Shenzhen MSCS Handbook](https://docs.qq.com/pdf/DTmJ2aUtqa1ViTVF3?&u=03e978e634e649b7af8e8c2295d5f3a0) |
 | [Chinese Students - Checklist for New Students in Fall 2021](https://docs.qq.com/doc/DTkVsZmxKRUdHSGRj) |
 
+感谢 [上海交通大学生存手册  SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual)
 
-
-Last updated: 2022.7.23
+Last updated: 2022.7.25
