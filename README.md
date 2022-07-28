@@ -17,6 +17,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ |
 | ✅    | [教育部官网](https://www.crs.jsj.edu.cn/aproval/detail/2766) | 学校在教育部注册的信息                | [Archive](https://web.archive.org/web/20220528083820/https://www.crs.jsj.edu.cn/aproval/detail/2766) |
 | ✅    | [英文官网](https://shenzhen.gatech.edu)                      | 可靠的信息来源                        | [Archive](https://web.archive.org/web/20220703081443/https://www.shenzhen.gatech.edu/) |
+| ✅    | [天津大学官网](http://cic.tju.edu.cn/info/1051/1937.htm)     | 双硕士项目介绍                        | [Archive](https://web.archive.org/web/20220728164106/http://cic.tju.edu.cn/info/1051/1937.htm) |
 | ✅    | [Current Students](https://www.shenzhen.gatech.edu/current-students/) | 一份实用目录                          | [Archive](https://web.archive.org/web/20220604082716/https://www.shenzhen.gatech.edu/current-students/) |
 | ✅    | [GT-Shenzhen Lodging Options](https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) | （有巢公寓）住宿条件照片              | [Archive](https://web.archive.org/web/20220604082720/https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) |
 | ❌    | [Succeed in OMSCS](http://omscs.wikidot.com/)                | 一份非官方指南                        |                                                              |
