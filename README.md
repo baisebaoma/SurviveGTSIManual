@@ -65,6 +65,7 @@
 
 | [GTSI_2022招生简章.pdf（Telegram网盘机器人）](https://t.me/WangPanBOT?start=file1752d1c78b035d3f) |
 | ------------------------------------------------------------ |
+| [Online Master of Science in Computer Science (OMSCS) Spring 2022](https://omscs.gatech.edu/sites/default/files/documents/Other_docs/spring_2022_orientation_document_v02.pdf) |
 | [OMS Unofficial Guide.xlsx](https://docs.google.com/spreadsheets/d/1elFP6k8zEOubNJ7lIFNmgTP5J-vKoS4R/htmlview) |
 | [Spring 2022_GT-Shenzhen MSCS Handbook](https://docs.qq.com/pdf/DTmJ2aUtqa1ViTVF3?&u=03e978e634e649b7af8e8c2295d5f3a0) |
 | [Chinese Students - Checklist for New Students in Fall 2021](https://docs.qq.com/doc/DTkVsZmxKRUdHSGRj) |
