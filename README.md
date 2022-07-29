@@ -24,10 +24,12 @@
 | ❌    | [Preparing for Spring 2016!](https://www.reddit.com/r/OMSCS/comments/3rghng/preparing_for_spring_2016/) | 对OMSCS学生的建议                     |                                                              |
 | ✅    | [Home - OMSCS](https://omscs.gatech.edu)                     | OMSCS项目介绍                         |                                                              |
 | ✅    | [OMSCS Specializations](https://omscs.gatech.edu/program-info/specializations) | OMSCS课程要求                         |                                                              |
-| ✅    | [OMSCS People](https://omscs.gatech.edu/program-info/people) | OMSCS师资                             |                                                              |
-| ❌    | [OMSCentral](https://www.omscentral.com/)                    | 课程、学生评价                        | [Archive](https://web.archive.org/web/20220727103427/https://www.omscentral.com/) |
+| ❌    | [OMSCentral](https://www.omscentral.com/)                    | 课程、学生评价（最推荐这个）          | [Archive](https://web.archive.org/web/20220727103427/https://www.omscentral.com/) |
 | ❌    | [OMSCS Reviews](https://awaisrauf.github.io/omscs_reviews/)  | 课程、学生评价                        | [Archive](https://web.archive.org/web/20220727103622/https://awaisrauf.github.io/omscs_reviews/) |
 | ❌    | [OMSHub](https://omshub.org/)                                | 课程、学生评价                        | [Archive](https://web.archive.org/web/20220727103532/https://omshub.org/) |
+| ❌    | [你觉得我的计算系统轨道课程怎么样？ - Reddit](https://www.reddit.com/r/OMSCS/comments/w69h66/what_do_you_think_of_my_courses_for_computing/) |                                       |                                                              |
+| ✅    | [OMSCS People](https://omscs.gatech.edu/program-info/people) | OMSCS师资                             |                                                              |
+| ✅    | [Course Critique](https://critique.gatech.edu/)              | 课程均分                              |                                                              |
 | ✅    | [中文官网](http://www.gtsi.edu.cn)                           | **信息几乎仅对ECE适用，并且亟待更新** |                                                              |
 
 ## 📖精选文章
@@ -38,10 +40,12 @@
 | 👍    | [非学生评价](https://www.zhihu.com/question/39689377/answer/2430286020) | 从大环境分析，认为该校前途无量                               |                                                              |
 | 👎    | [在读学生评价](https://www.zhihu.com/question/39689377/answer/2416400617) | 从OPT和交换的角度分析，指出CS几乎不可能交换，**批评学校模棱两可的政策和宣传**，语气较强硬 |                                                              |
 | 🀄️    | <span id="omscs">[未就读学生评价](https://www.zhihu.com/question/39689377/answer/2486316349)</span> | CS几乎等于能认证的OMSCS。给出了申请建议。                    | [Archive](https://web.archive.org/web/20220718111153/https://www.zhihu.com/question/39689377/answer/2486316349) |
+| 👍    | [Georgia Tech OMSCS FAQ](https://www.reddit.com/r/OMSCS/wiki/index/) |                                                              |                                                              |
 | 👍    | [如何评价 Georgia Tech 的 OMSCS?](https://www.zhihu.com/question/24570155/answer/37717958) | 一篇OMSCS的中文文章，帮助您了解OMSCS是什么。                 |                                                              |
-| 🀄️    | [Georgia Tech OMSCS FAQ](https://medium.com/@adrianchang/georgia-tech-omscs-faq-651b88cadf09) | OMSCS FAQ                                                    | [Archive](https://web.archive.org/web/20220729123836/https://medium.com/@adrianchang/georgia-tech-omscs-faq-651b88cadf09) |
+| 👍    | [5 lessons from my journey with Georgia Tech’s OMSCS](https://www.ddmckinnon.com/2020/12/16/5-lessons-from-my-journey-with-georgia-techs-omscs/) | 良心好文章                                                   |                                                              |
 | 👎    | [在读学生评价](https://www.zhihu.com/question/39689377/answer/2130205892) | 学习、生活的劣势                                             | [Archive](https://web.archive.org/web/20220722051423/https://www.zhihu.com/question/39689377/answer/2130205892) |
 | 👍    | [在读学生评价](https://www.1point3acres.com/bbs/thread-655947-1-1.html) | 只看四楼五楼就行了，**ECE教育质量不错、性价比高**            |                                                              |
+| 🀄️    | [Georgia Tech OMSCS FAQ](https://medium.com/@adrianchang/georgia-tech-omscs-faq-651b88cadf09) | OMSCS FAQ                                                    | [Archive](https://web.archive.org/web/20220729123836/https://medium.com/@adrianchang/georgia-tech-omscs-faq-651b88cadf09) |
 | 🀄️    | [在读学生评价](https://www.zhihu.com/question/39689377/answer/2124180545) | 双硕士政策解释                                               |                                                              |
 
 ## 🎬精选视频
