@@ -21,9 +21,10 @@
 | ✅    | [Current Students](https://www.shenzhen.gatech.edu/current-students/) | 一份实用目录                          | [Archive](https://web.archive.org/web/20220604082716/https://www.shenzhen.gatech.edu/current-students/) |
 | ✅    | [GT-Shenzhen Lodging Options](https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) | （有巢公寓）住宿条件照片              | [Archive](https://web.archive.org/web/20220604082720/https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) |
 | ❌    | [Succeed in OMSCS](http://omscs.wikidot.com/)                | 一份非官方指南                        |                                                              |
-| ✅    | [Preparing for Spring 2016!](https://www.reddit.com/r/OMSCS/comments/3rghng/preparing_for_spring_2016/) | 对OMSCS学生的建议                     |                                                              |
+| ❌    | [Preparing for Spring 2016!](https://www.reddit.com/r/OMSCS/comments/3rghng/preparing_for_spring_2016/) | 对OMSCS学生的建议                     |                                                              |
 | ✅    | [Home - OMSCS](https://omscs.gatech.edu)                     | OMSCS项目介绍                         |                                                              |
 | ✅    | [OMSCS Specializations](https://omscs.gatech.edu/program-info/specializations) | OMSCS课程要求                         |                                                              |
+| ✅    | [OMSCS People](https://omscs.gatech.edu/program-info/people) | OMSCS师资                             |                                                              |
 | ❌    | [OMSCentral](https://www.omscentral.com/)                    | 课程、学生评价                        | [Archive](https://web.archive.org/web/20220727103427/https://www.omscentral.com/) |
 | ❌    | [OMSCS Reviews](https://awaisrauf.github.io/omscs_reviews/)  | 课程、学生评价                        | [Archive](https://web.archive.org/web/20220727103622/https://awaisrauf.github.io/omscs_reviews/) |
 | ❌    | [OMSHub](https://omshub.org/)                                | 课程、学生评价                        | [Archive](https://web.archive.org/web/20220727103532/https://omshub.org/) |
