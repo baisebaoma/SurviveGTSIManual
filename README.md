@@ -1,7 +1,6 @@
 # 🐝佐治亚理工深圳生存指南
 
 > 天津大学佐治亚理工深圳学院（Georgia Tech Shenzhen Institute, Tianjin University，简称GTSI）是在深圳市人民政府的支持下，由天津大学和美国佐治亚理工学院共同举办的非独立设置中外合作办学机构。2020年3月25日，教育部发文批准GTSI正式设立。
->
 
 本仓库收集互联网上零碎的有用的信息。下面每个小标题下面的资源是按照重要顺序排列的，但并不代表排名末尾的就不重要，不重要的资源是不会放在这里的。**推荐依次阅读。**
 
@@ -13,24 +12,27 @@
 
 ## 🌍精选网站
 
-| 官方 | 网站                                                         | 摘要                                  | 备用链接                                                     |
-| ---- | ------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ |
-| ✅    | [教育部官网](https://www.crs.jsj.edu.cn/aproval/detail/2766) | 学校在教育部注册的信息                | [Archive](https://web.archive.org/web/20220528083820/https://www.crs.jsj.edu.cn/aproval/detail/2766) |
-| ✅    | [英文官网](https://shenzhen.gatech.edu)                      | 可靠的信息来源                        | [Archive](https://web.archive.org/web/20220703081443/https://www.shenzhen.gatech.edu/) |
-| ✅    | [天津大学官网](http://cic.tju.edu.cn/info/1051/1937.htm)     | 双硕士项目介绍                        | [Archive](https://web.archive.org/web/20220728164106/http://cic.tju.edu.cn/info/1051/1937.htm) |
-| ✅    | [Current Students](https://www.shenzhen.gatech.edu/current-students/) | 一份实用目录                          | [Archive](https://web.archive.org/web/20220604082716/https://www.shenzhen.gatech.edu/current-students/) |
-| ✅    | [GT-Shenzhen Lodging Options](https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) | （有巢公寓）住宿条件照片              | [Archive](https://web.archive.org/web/20220604082720/https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) |
-| ❌    | [Succeed in OMSCS](http://omscs.wikidot.com/)                | 一份非官方指南                        |                                                              |
-| ❌    | [Preparing for Spring 2016!](https://www.reddit.com/r/OMSCS/comments/3rghng/preparing_for_spring_2016/) | 对OMSCS学生的建议                     |                                                              |
-| ✅    | [Home - OMSCS](https://omscs.gatech.edu)                     | OMSCS项目介绍                         |                                                              |
-| ✅    | [OMSCS Specializations](https://omscs.gatech.edu/program-info/specializations) | OMSCS课程要求                         |                                                              |
-| ❌    | [OMSCentral](https://www.omscentral.com/)                    | 课程、学生评价（最推荐这个）          | [Archive](https://web.archive.org/web/20220727103427/https://www.omscentral.com/) |
-| ❌    | [OMSCS Reviews](https://awaisrauf.github.io/omscs_reviews/)  | 课程、学生评价                        | [Archive](https://web.archive.org/web/20220727103622/https://awaisrauf.github.io/omscs_reviews/) |
-| ❌    | [OMSHub](https://omshub.org/)                                | 课程、学生评价                        | [Archive](https://web.archive.org/web/20220727103532/https://omshub.org/) |
-| ❌    | [你觉得我的计算系统轨道课程怎么样？ - Reddit](https://www.reddit.com/r/OMSCS/comments/w69h66/what_do_you_think_of_my_courses_for_computing/) |                                       |                                                              |
-| ✅    | [OMSCS People](https://omscs.gatech.edu/program-info/people) | OMSCS师资                             |                                                              |
-| ✅    | [Course Critique](https://critique.gatech.edu/)              | 课程均分                              |                                                              |
-| ✅    | [中文官网](http://www.gtsi.edu.cn)                           | **信息几乎仅对ECE适用，并且亟待更新** |                                                              |
+| 官方 | 网站                                                         | 摘要                                                         | 备用链接                                                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ✅    | [教育部官网](https://www.crs.jsj.edu.cn/aproval/detail/2766) | 学校在教育部注册的信息                                       | [Archive](https://web.archive.org/web/20220528083820/https://www.crs.jsj.edu.cn/aproval/detail/2766) |
+| ✅    | [英文官网](https://shenzhen.gatech.edu)                      | 可靠的信息来源                                               | [Archive](https://web.archive.org/web/20220703081443/https://www.shenzhen.gatech.edu/) |
+| ✅    | [天津大学官网](http://cic.tju.edu.cn/info/1051/1937.htm)     | 双硕士项目介绍                                               | [Archive](https://web.archive.org/web/20220728164106/http://cic.tju.edu.cn/info/1051/1937.htm) |
+| ✅    | [Current Students](https://www.shenzhen.gatech.edu/current-students/) | 一份实用目录                                                 | [Archive](https://web.archive.org/web/20220604082716/https://www.shenzhen.gatech.edu/current-students/) |
+| ✅    | [GT-Shenzhen Lodging Options](https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) | （有巢公寓）住宿条件照片                                     | [Archive](https://web.archive.org/web/20220604082720/https://www.shenzhen.gatech.edu/current-students/gt-shenzhen-lodging-options/) |
+| ❌    | [Succeed in OMSCS](http://omscs.wikidot.com/)                | 一份非官方指南                                               |                                                              |
+| ❌    | [Preparing for Spring 2016!](https://www.reddit.com/r/OMSCS/comments/3rghng/preparing_for_spring_2016/) | 对OMSCS学生的建议                                            |                                                              |
+| ✅    | [Home - OMSCS](https://omscs.gatech.edu)                     | OMSCS项目介绍                                                |                                                              |
+| ✅    | [OMSCS Specializations](https://omscs.gatech.edu/program-info/specializations) | OMSCS课程要求                                                |                                                              |
+| ❌    | [OMSCentral](https://www.omscentral.com/)                    | 课程、学生评价（最推荐这个）                                 | [Archive](https://web.archive.org/web/20220727103427/https://www.omscentral.com/) |
+| ❌    | [OMSCS Reviews](https://awaisrauf.github.io/omscs_reviews/)  | 课程、学生评价                                               | [Archive](https://web.archive.org/web/20220727103622/https://awaisrauf.github.io/omscs_reviews/) |
+| ❌    | [OMSHub](https://omshub.org/)                                | 课程、学生评价                                               | [Archive](https://web.archive.org/web/20220727103532/https://omshub.org/) |
+| ❌    | [Awesome OMSCS](https://github.com/kathgironpe/awesome-omscs) | Resources on admission, and how to succeed for the Online Master of Science in Computer Science program of the Georgia Institute of Technology. |                                                              |
+| ❌    | [OMSCS Notes](https://www.omscs-notes.com/)                  | OMSCS Notes                                                  |                                                              |
+| ❌    | [OMSCS Journey](https://omscs.royniladri.dev/)               |                                                              |                                                              |
+| ❌    | [你觉得我的计算系统轨道课程怎么样？ - Reddit](https://www.reddit.com/r/OMSCS/comments/w69h66/what_do_you_think_of_my_courses_for_computing/) |                                                              |                                                              |
+| ✅    | [OMSCS People](https://omscs.gatech.edu/program-info/people) | OMSCS师资                                                    |                                                              |
+| ✅    | [Course Critique](https://critique.gatech.edu/)              | 课程均分                                                     |                                                              |
+| ✅    | [中文官网](http://www.gtsi.edu.cn)                           | **信息几乎仅对ECE适用，并且亟待更新**                        |                                                              |
 
 ## 📖精选文章
 
@@ -77,6 +79,7 @@
 | [Spring 2022_GT-Shenzhen MSCS Handbook](https://docs.qq.com/pdf/DTmJ2aUtqa1ViTVF3?&u=03e978e634e649b7af8e8c2295d5f3a0) |
 | [Chinese Students - Checklist for New Students in Fall 2021](https://docs.qq.com/doc/DTkVsZmxKRUdHSGRj) |
 | [Student Discounts](https://docs.google.com/spreadsheets/d/1xatwCPgZDFe3-Gl1KiWqpBt9pV7KNS7j-IuPGD6xrfA/edit#gid=1623988833) |
+| [GTSI Student Housing Policy](https://docs.qq.com/pdf/DVW54bkxGSXlvZmtC) |
 
 感谢 [上海交通大学生存手册  SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual)
 
@@ -84,6 +87,6 @@
 
 > Georgia Tech Shenzhen Institute, Tianjin University (GTSI) is **a Joint Institute between Georgia Tech and Tianjin University** and is located in Shenzhen, often dubbed the “Silicon Valley of China”. GTSI has received approval from the Board of Regents of the University System of Georgia and the Chinese Ministry of Education to offer Georgia Tech’s existing Master’s degree programs in Electrical and Computer Engineering (ECE), Analytics, Computer Science, Environmental Engineering, and Industrial Design, as well as the Ph.D. degree in ECE. **Georgia Tech is fully responsible for Georgia Tech academic programming at GTSI**, which enrolls qualified students from China, the USA, and other countries around the world. (From [YouTube](https://www.youtube.com/channel/UCdPgwthLdjt4VIjM7zBbTeA/about))
 >
-> Georgia Tech Shenzhen is **one of three degree-granting campuses** within the Georgia Tech Global Network. In August 2014, Georgia Tech (GT) launched its existing M.S. degree program in Electrical and Computer Engineering (ECE) in Shenzhen, China. Situated next to Hong Kong, Shenzhen has the fourth largest GDP in China and has the highest GDP per capita among large- and medium-sized cities in mainland China. It is a clean, green city, has a young population, and is very high-tech. Shenzhen is home to well-known multinationals such as Oracle, IBM, Microsoft, Intel, Samsung, TI, Siemens, Phillips, Kodak, PMC-Sierra, Hitachi as well as some of the largest Chinese companies including Tencent, Lenovo, DJI, Huawei, and Mindray. Shenzhen campus is surrounded by the Shenzhen High-Tech companies where GT students will have ample opportunities to pursue internships with companies located within walking distance from the GT classrooms.The GT-Shenzhen campus enrolls qualified students from China, the USA, and other countries around the world. The program will assist interested students with internship arrangements after they have arrived in Shenzhen. A unique program – the Global Engineering Immersion Program (GEIP) – capitalizes on GT’s academic presences in Atlanta, GA, Lorraine, France, and Shenzhen, China, and encourage students to complete the GT MS degree by studying with GT on 3 different continents – North America, Europe, and Asia in as little as 12 months’ time. (From [LinkedIn](https://www.linkedin.com/company/georgia-tech-shenzhen/))
+> Georgia Tech Shenzhen is **one of three degree-granting campuses** within the Georgia Tech Global Network. In August 2014, Georgia Tech (GT) launched its existing M.S. degree program in Electrical and Computer Engineering (ECE) in Shenzhen, China. Situated next to Hong Kong, Shenzhen has the fourth largest GDP in China and has the highest GDP per capita among large- and medium-sized cities in mainland China. It is a clean, green city, has a young population, and is very high-tech. Shenzhen is home to well-known multinationals such as Oracle, IBM, Microsoft, Intel, Samsung, TI, Siemens, Phillips, Kodak, PMC-Sierra, Hitachi as well as some of the largest Chinese companies including Tencent, Lenovo, DJI, Huawei, and Mindray. Shenzhen campus is surrounded by the Shenzhen High-Tech companies where GT students will have ample opportunities to pursue internships with companies located within walking distance from the GT classrooms. The GT-Shenzhen campus enrolls qualified students from China, the USA, and other countries around the world. The program will assist interested students with internship arrangements after they have arrived in Shenzhen. A unique program – the Global Engineering Immersion Program (GEIP) – capitalizes on GT’s academic presences in Atlanta, GA, Lorraine, France, and Shenzhen, China, and encourage students to complete the GT MS degree by studying with GT on 3 different continents – North America, Europe, and Asia in as little as 12 months’ time. (From [LinkedIn](https://www.linkedin.com/company/georgia-tech-shenzhen/))
 
 Last updated: 2022.7.27
