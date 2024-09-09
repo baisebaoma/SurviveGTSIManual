@@ -8,6 +8,15 @@
 
 ---
 
+## 佐治亚理工学院决定退出天津大学佐治亚理工深圳学院
+
+[官网链接](https://news.gatech.edu/news/2024/09/06/georgia-tech-exit-georgia-tech-shenzhen-institute)
+
+很遗憾地通知看到这个仓库的您，2024年9月6日，佐治亚理工学院以国家安全、天津大学仍在美国名单上为由，决定退出天津大学佐治亚理工深圳学院。我个人对这个决定表示尊重和理解。
+
+这也就意味着这个仓库于2022年整理的信息变得不再有实用价值。我们目前不知道深圳学院未来如何发展，请留给时间。
+
+2024.9.10
 
 
 ## 🌍精选网站
@@ -90,4 +99,4 @@
 >
 > Georgia Tech Shenzhen is **one of three degree-granting campuses** within the Georgia Tech Global Network. In August 2014, Georgia Tech (GT) launched its existing M.S. degree program in Electrical and Computer Engineering (ECE) in Shenzhen, China. Situated next to Hong Kong, Shenzhen has the fourth largest GDP in China and has the highest GDP per capita among large- and medium-sized cities in mainland China. It is a clean, green city, has a young population, and is very high-tech. Shenzhen is home to well-known multinationals such as Oracle, IBM, Microsoft, Intel, Samsung, TI, Siemens, Phillips, Kodak, PMC-Sierra, Hitachi as well as some of the largest Chinese companies including Tencent, Lenovo, DJI, Huawei, and Mindray. Shenzhen campus is surrounded by the Shenzhen High-Tech companies where GT students will have ample opportunities to pursue internships with companies located within walking distance from the GT classrooms. The GT-Shenzhen campus enrolls qualified students from China, the USA, and other countries around the world. The program will assist interested students with internship arrangements after they have arrived in Shenzhen. A unique program – the Global Engineering Immersion Program (GEIP) – capitalizes on GT’s academic presences in Atlanta, GA, Lorraine, France, and Shenzhen, China, and encourage students to complete the GT MS degree by studying with GT on 3 different continents – North America, Europe, and Asia in as little as 12 months’ time. (From [LinkedIn](https://www.linkedin.com/company/georgia-tech-shenzhen/))
 
-Last updated: 2022.7.27
+2022.7.27
